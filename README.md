@@ -12,6 +12,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Trangitg/LeetCodeTest/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Trangitg/LeetCodeTest/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Trangitg/LeetCodeTest/tree/master/0027-remove-element) |
 # Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Trangitg/LeetCodeTest/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Trangitg/LeetCodeTest/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Trangitg/LeetCodeTest/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Trangitg/LeetCodeTest/tree/master/0027-remove-element) |
 # Greedy
 |  |
 | ------- |
