@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/Trangitg/LeetCodeTest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Trangitg/LeetCodeTest/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Trangitg/LeetCodeTest/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Trangitg/LeetCodeTest/tree/master/0069-sqrtx) |
 # Array
 |  |
 | ------- |
@@ -64,3 +65,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0022-generate-parentheses) |
+# Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Trangitg/LeetCodeTest/tree/master/0069-sqrtx) |
