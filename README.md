@@ -28,11 +28,13 @@
 | [0012-integer-to-roman](https://github.com/Trangitg/LeetCodeTest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Trangitg/LeetCodeTest/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0022-generate-parentheses) |
 # Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Trangitg/LeetCodeTest/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Trangitg/LeetCodeTest/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0022-generate-parentheses) |
 # Recursion
 |  |
 | ------- |
@@ -56,3 +58,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0020-valid-parentheses) |
+# Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0022-generate-parentheses) |
