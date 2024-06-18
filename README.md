@@ -7,12 +7,14 @@
 | [0007-reverse-integer](https://github.com/Trangitg/LeetCodeTest/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Trangitg/LeetCodeTest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Trangitg/LeetCodeTest/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Trangitg/LeetCodeTest/tree/master/0066-plus-one) |
 # Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Trangitg/LeetCodeTest/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Trangitg/LeetCodeTest/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Trangitg/LeetCodeTest/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Trangitg/LeetCodeTest/tree/master/0066-plus-one) |
 # Hash Table
 |  |
 | ------- |
