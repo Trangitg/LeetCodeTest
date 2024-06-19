@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/Trangitg/LeetCodeTest/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Trangitg/LeetCodeTest/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Trangitg/LeetCodeTest/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Trangitg/LeetCodeTest/tree/master/0066-plus-one) |
 # Hash Table
 |  |
@@ -70,6 +71,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Trangitg/LeetCodeTest/tree/master/0069-sqrtx) |
 # Trie
 |  |
