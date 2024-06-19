@@ -36,6 +36,7 @@
 | [0014-longest-common-prefix](https://github.com/Trangitg/LeetCodeTest/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Trangitg/LeetCodeTest/tree/master/0038-count-and-say) |
 # Dynamic Programming
 |  |
 | ------- |
