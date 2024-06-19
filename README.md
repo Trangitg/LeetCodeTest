@@ -17,6 +17,7 @@
 | [0011-container-with-most-water](https://github.com/Trangitg/LeetCodeTest/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Trangitg/LeetCodeTest/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Trangitg/LeetCodeTest/tree/master/0066-plus-one) |
 # Hash Table
 |  |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Trangitg/LeetCodeTest/tree/master/0069-sqrtx) |
 # Trie
 |  |
