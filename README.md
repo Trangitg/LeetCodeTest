@@ -22,6 +22,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Trangitg/LeetCodeTest/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Trangitg/LeetCodeTest/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Trangitg/LeetCodeTest/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Trangitg/LeetCodeTest/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0073-set-matrix-zeroes) |
 # Hash Table
@@ -83,6 +84,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Trangitg/LeetCodeTest/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Trangitg/LeetCodeTest/tree/master/0051-n-queens) |
 # Binary Search
 |  |
 | ------- |
