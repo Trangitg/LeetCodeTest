@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/Trangitg/LeetCodeTest/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Trangitg/LeetCodeTest/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Trangitg/LeetCodeTest/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Trangitg/LeetCodeTest/tree/master/0070-climbing-stairs) |
 # Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Trangitg/LeetCodeTest/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Trangitg/LeetCodeTest/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Trangitg/LeetCodeTest/tree/master/0070-climbing-stairs) |
 # Recursion
 |  |
 | ------- |
@@ -92,3 +94,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Trangitg/LeetCodeTest/tree/master/0070-climbing-stairs) |
