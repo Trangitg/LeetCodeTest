@@ -87,6 +87,7 @@
 | [0022-generate-parentheses](https://github.com/Trangitg/LeetCodeTest/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Trangitg/LeetCodeTest/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Trangitg/LeetCodeTest/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0052-n-queens-ii) |
 # Binary Search
 |  |
 | ------- |
