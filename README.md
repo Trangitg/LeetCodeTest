@@ -26,6 +26,7 @@
 | [0051-n-queens](https://github.com/Trangitg/LeetCodeTest/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Trangitg/LeetCodeTest/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Trangitg/LeetCodeTest/tree/master/0079-word-search) |
 # Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0051-n-queens](https://github.com/Trangitg/LeetCodeTest/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Trangitg/LeetCodeTest/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Trangitg/LeetCodeTest/tree/master/0079-word-search) |
 # Binary Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/Trangitg/LeetCodeTest/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0151-reverse-words-in-a-string) |
 # Memoization
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Trangitg/LeetCodeTest/tree/master/0079-word-search) |
 # Tree
 |  |
 | ------- |
