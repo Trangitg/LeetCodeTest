@@ -81,6 +81,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Trangitg/LeetCodeTest/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Trangitg/LeetCodeTest/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0151-reverse-words-in-a-string) |
 # Greedy
 |  |
@@ -124,6 +125,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Trangitg/LeetCodeTest/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Trangitg/LeetCodeTest/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0151-reverse-words-in-a-string) |
 # Memoization
 |  |
