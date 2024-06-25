@@ -29,6 +29,7 @@
 | [0079-word-search](https://github.com/Trangitg/LeetCodeTest/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Trangitg/LeetCodeTest/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Trangitg/LeetCodeTest/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 # Hash Table
 |  |
@@ -60,6 +61,7 @@
 | [0097-interleaving-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Trangitg/LeetCodeTest/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Trangitg/LeetCodeTest/tree/master/0120-triangle) |
 # Recursion
 |  |
 | ------- |
