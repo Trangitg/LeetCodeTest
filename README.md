@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Trangitg/LeetCodeTest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 # Hash Table
 |  |
@@ -190,3 +191,4 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0137-single-number-ii) |
