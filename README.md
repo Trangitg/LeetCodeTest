@@ -36,6 +36,7 @@
 | [0136-single-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
 # Hash Table
 |  |
 | ------- |
@@ -192,3 +193,15 @@
 | ------- |
 | [0136-single-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0137-single-number-ii) |
+# Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
+# Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
+# Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
