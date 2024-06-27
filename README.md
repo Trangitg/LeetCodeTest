@@ -15,6 +15,7 @@
 | [0070-climbing-stairs](https://github.com/Trangitg/LeetCodeTest/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Trangitg/LeetCodeTest/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Trangitg/LeetCodeTest/tree/master/0223-rectangle-area) |
 # Array
 |  |
 | ------- |
@@ -247,3 +248,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Trangitg/LeetCodeTest/tree/master/0220-contains-duplicate-iii) |
+# Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Trangitg/LeetCodeTest/tree/master/0223-rectangle-area) |
