@@ -50,6 +50,7 @@
 | [0221-maximal-square](https://github.com/Trangitg/LeetCodeTest/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Trangitg/LeetCodeTest/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Trangitg/LeetCodeTest/tree/master/0349-intersection-of-two-arrays) |
 # Hash Table
@@ -94,6 +95,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Trangitg/LeetCodeTest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/Trangitg/LeetCodeTest/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Trangitg/LeetCodeTest/tree/master/0300-longest-increasing-subsequence) |
 # Recursion
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Trangitg/LeetCodeTest/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Trangitg/LeetCodeTest/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Trangitg/LeetCodeTest/tree/master/0349-intersection-of-two-arrays) |
 # Bit Manipulation
 |  |
