@@ -51,6 +51,7 @@
 | [0283-move-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Trangitg/LeetCodeTest/tree/master/0349-intersection-of-two-arrays) |
 # Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Trangitg/LeetCodeTest/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Trangitg/LeetCodeTest/tree/master/0349-intersection-of-two-arrays) |
 # String
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0283-move-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Trangitg/LeetCodeTest/tree/master/0349-intersection-of-two-arrays) |
 # Greedy
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Trangitg/LeetCodeTest/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Trangitg/LeetCodeTest/tree/master/0349-intersection-of-two-arrays) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -239,6 +243,7 @@
 | [0217-contains-duplicate](https://github.com/Trangitg/LeetCodeTest/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Trangitg/LeetCodeTest/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Trangitg/LeetCodeTest/tree/master/0349-intersection-of-two-arrays) |
 # Bucket Sort
 |  |
 | ------- |
