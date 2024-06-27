@@ -50,6 +50,7 @@
 | [0221-maximal-square](https://github.com/Trangitg/LeetCodeTest/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
 # Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0217-contains-duplicate](https://github.com/Trangitg/LeetCodeTest/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Trangitg/LeetCodeTest/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
 # String
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Trangitg/LeetCodeTest/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -235,11 +238,13 @@
 | [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Trangitg/LeetCodeTest/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Trangitg/LeetCodeTest/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
 # Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Trangitg/LeetCodeTest/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
 # Radix Sort
 |  |
 | ------- |
@@ -265,3 +270,15 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Trangitg/LeetCodeTest/tree/master/0223-rectangle-area) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
+# Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
+# Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0347-top-k-frequent-elements) |
