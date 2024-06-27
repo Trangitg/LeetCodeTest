@@ -45,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/Trangitg/LeetCodeTest/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Trangitg/LeetCodeTest/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/Trangitg/LeetCodeTest/tree/master/0221-maximal-square) |
 # Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0120-triangle](https://github.com/Trangitg/LeetCodeTest/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Trangitg/LeetCodeTest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0221-maximal-square](https://github.com/Trangitg/LeetCodeTest/tree/master/0221-maximal-square) |
 # Recursion
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0048-rotate-image](https://github.com/Trangitg/LeetCodeTest/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Trangitg/LeetCodeTest/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/Trangitg/LeetCodeTest/tree/master/0221-maximal-square) |
 # Tree
 |  |
 | ------- |
