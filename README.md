@@ -48,6 +48,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Trangitg/LeetCodeTest/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Trangitg/LeetCodeTest/tree/master/0221-maximal-square) |
+| [0283-move-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0283-move-zeroes) |
 # Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0125-valid-palindrome](https://github.com/Trangitg/LeetCodeTest/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0283-move-zeroes) |
 # Greedy
 |  |
 | ------- |
