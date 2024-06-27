@@ -43,6 +43,7 @@
 | [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Trangitg/LeetCodeTest/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Trangitg/LeetCodeTest/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0219-contains-duplicate-ii) |
 # Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0202-happy-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Trangitg/LeetCodeTest/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Trangitg/LeetCodeTest/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0219-contains-duplicate-ii) |
 # String
 |  |
 | ------- |
@@ -230,3 +232,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Trangitg/LeetCodeTest/tree/master/0204-count-primes) |
+# Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0219-contains-duplicate-ii) |
