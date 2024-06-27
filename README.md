@@ -49,6 +49,7 @@
 | [0220-contains-duplicate-iii](https://github.com/Trangitg/LeetCodeTest/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Trangitg/LeetCodeTest/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0287-find-the-duplicate-number) |
 # Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0287-find-the-duplicate-number) |
 # Greedy
 |  |
 | ------- |
@@ -215,12 +217,14 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Trangitg/LeetCodeTest/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0287-find-the-duplicate-number) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Trangitg/LeetCodeTest/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0287-find-the-duplicate-number) |
 # Sorting
 |  |
 | ------- |
