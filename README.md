@@ -16,6 +16,7 @@
 | [0202-happy-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Trangitg/LeetCodeTest/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Trangitg/LeetCodeTest/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/Trangitg/LeetCodeTest/tree/master/0231-power-of-two) |
 # Array
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0050-powx-n](https://github.com/Trangitg/LeetCodeTest/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Trangitg/LeetCodeTest/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Trangitg/LeetCodeTest/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Trangitg/LeetCodeTest/tree/master/0231-power-of-two) |
 # Two Pointers
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Trangitg/LeetCodeTest/tree/master/0231-power-of-two) |
 # Sorting
 |  |
 | ------- |
