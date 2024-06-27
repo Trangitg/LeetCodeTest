@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/Trangitg/LeetCodeTest/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Trangitg/LeetCodeTest/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Trangitg/LeetCodeTest/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0202-happy-number) |
 # Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0012-integer-to-roman](https://github.com/Trangitg/LeetCodeTest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Trangitg/LeetCodeTest/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0202-happy-number) |
 # String
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Trangitg/LeetCodeTest/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Trangitg/LeetCodeTest/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0202-happy-number) |
 # Greedy
 |  |
 | ------- |
