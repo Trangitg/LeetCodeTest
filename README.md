@@ -14,6 +14,7 @@
 | [0069-sqrtx](https://github.com/Trangitg/LeetCodeTest/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Trangitg/LeetCodeTest/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Trangitg/LeetCodeTest/tree/master/0204-count-primes) |
 # Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0137-single-number-ii](https://github.com/Trangitg/LeetCodeTest/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/Trangitg/LeetCodeTest/tree/master/0204-count-primes) |
 # Hash Table
 |  |
 | ------- |
@@ -213,3 +215,11 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Trangitg/LeetCodeTest/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Trangitg/LeetCodeTest/tree/master/0204-count-primes) |
