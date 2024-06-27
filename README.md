@@ -42,6 +42,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trangitg/LeetCodeTest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Trangitg/LeetCodeTest/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Trangitg/LeetCodeTest/tree/master/0217-contains-duplicate) |
 # Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Trangitg/LeetCodeTest/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Trangitg/LeetCodeTest/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Trangitg/LeetCodeTest/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Trangitg/LeetCodeTest/tree/master/0217-contains-duplicate) |
 # String
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Trangitg/LeetCodeTest/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/Trangitg/LeetCodeTest/tree/master/0217-contains-duplicate) |
 # Bucket Sort
 |  |
 | ------- |
